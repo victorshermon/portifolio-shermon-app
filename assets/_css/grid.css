@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.app-grid-content
+{
+  display:grid; grid-template-areas: "header main"; grid-template-columns: minmax(80px, 240px) auto; height:100vh;
+}

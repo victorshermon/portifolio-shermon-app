@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@font-face {
+ src:url('https://fonts.googleapis.com/css?family=Open+Sans|Quicksand&display=swap');
+ font-family:'Quicksand', sans-serif;
+}
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  margin:0px; padding:0px; font-family:'Quicksand', sans-serif; color:#fff;
+}
+
+p
+{
+  margin:0px; padding:0px;
+}
