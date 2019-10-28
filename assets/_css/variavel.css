@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+:root
+{
+  --menu-app-desktop:240px;
+  --menu-app-mobile:40px;
+  --font-color-hover:#8946EE;
+}

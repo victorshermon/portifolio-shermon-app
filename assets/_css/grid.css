@@ -2,5 +2,11 @@
 
 .app-grid-content
 {
-  display:grid; grid-template-areas: "header main"; grid-template-columns: minmax(80px, 240px) auto; height:100vh;
+  display:grid; grid-template-areas: "header main"; grid-template-columns: var(--menu-app-desktop) auto; height:100vh;
+}
+
+
+@keyframes animationHeader {
+  from  { opacity:0.3;  }
+  to    { opacity:1; ;
 }
